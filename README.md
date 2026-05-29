@@ -1,4 +1,4 @@
-# Hi, I'm Michail Koutroumpousis 👋
+[# Hi, I'm Michail Koutroumpousis 👋](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi,%20I'm%20Michail%20Koutroumpousis%20👋)
 
 Frontend Developer focused on building modern, responsive, and user-focused web applications.
 
@@ -53,10 +53,10 @@ I also maintain several private repositories containing frontend and full-stack 
 Repository names available upon request for recruiters/employers, and selected repositories can be made public when needed for review.
 
 ### Current Private Repositories
-[Wordpress Themes Projects](https://github.com/MickKout/WORDPRESS-THEMES)
-[HTML/CSS/JS Projects](https://github.com/MickKout/HTML-CSS-JS_projects)
-[Python Projects](https://github.com/MickKout/Python_Projects)
-[PostgreSQL Learning Projects](https://github.com/MickKout/PostgreSQL_Projects)
+- [Wordpress Themes Projects](https://github.com/MickKout/WORDPRESS-THEMES)
+- [HTML/CSS/JS Projects](https://github.com/MickKout/HTML-CSS-JS_projects)
+- [Python Projects](https://github.com/MickKout/Python_Projects)
+- [PostgreSQL Learning Projects](https://github.com/MickKout/PostgreSQL_Projects)
 
 ---
 
