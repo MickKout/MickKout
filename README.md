@@ -41,9 +41,8 @@ Currently expanding into full-stack development while building real-world projec
 ## 🛠 Featured Work
 
 ### Public Projects
-- [Project Name](https://github.com/USERNAME/REPO)
-- [Project Name](https://github.com/USERNAME/REPO)
-- [Project Name](https://github.com/USERNAME/REPO)
+- [Frontend Projects](https://github.com/MickKout/Frontend_Projects)
+- [Full-Stack Projects](https://github.com/MickKout/Full_Stack_Projects)
 
 ---
 
@@ -54,10 +53,10 @@ I also maintain several private repositories containing frontend and full-stack 
 Repository names available upon request for recruiters/employers, and selected repositories can be made public when needed for review.
 
 ### Current Private Repositories
-- repo-name-1
-- repo-name-2
-- repo-name-3
-- repo-name-4
+[Wordpress Themes Projects](https://github.com/MickKout/WORDPRESS-THEMES)
+[HTML/CSS/JS Projects](https://github.com/MickKout/HTML-CSS-JS_projects)
+[Python Projects](https://github.com/MickKout/Python_Projects)
+[PostgreSQL Learning Projects](https://github.com/MickKout/PostgreSQL_Projects)
 
 ---
 
