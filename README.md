@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MickKout)](https://github.com/anuraghazra/github-readme-stats)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Welcome%20to%20my%20profile!)
 
 # Hi, I'm Michail Koutroumpousis 👋
 
