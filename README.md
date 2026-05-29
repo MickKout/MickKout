@@ -1,4 +1,6 @@
-[# Hi, I'm Michail Koutroumpousis 👋](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi,%20I'm%20Michail%20Koutroumpousis%20👋)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+# Hi, I'm Michail Koutroumpousis 👋
 
 Frontend Developer focused on building modern, responsive, and user-focused web applications.
 
