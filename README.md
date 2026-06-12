@@ -67,8 +67,8 @@ Repository names available upon request for recruiters/employers, and selected r
 
 ## 📚 Currently Learning
 
-- Advanced backend development
-- Scalable full-stack architecture
+- AWS
+- Docker
 - Authentication & security
 - Advanced Web3 concepts
 - Production deployment workflows
