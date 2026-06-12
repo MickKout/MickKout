@@ -4,6 +4,7 @@
 
 Full-stack Developer focused on building modern, responsive, and user-focused web applications.
 
+
 Currently diving into building real-world full-stack projects involving:
 - Frontend UI/UX
 - APIs & backend architecture
