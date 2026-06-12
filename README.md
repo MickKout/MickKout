@@ -2,14 +2,15 @@
 
 # Hi, I'm Michail Koutroumpousis 👋
 
-Frontend Developer focused on building modern, responsive, and user-focused web applications.
+Full-stack Developer focused on building modern, responsive, and user-focused web applications.
 
-Currently expanding into full-stack development while building real-world projects involving:
+Currently diving into building real-world full-stack projects involving:
 - Frontend UI/UX
 - APIs & backend architecture
 - Authentication systems
 - Dashboards & SaaS applications
 - WordPress & custom web solutions
+- Web3 DApps
 
 ---
 
@@ -29,6 +30,7 @@ Currently expanding into full-stack development while building real-world projec
 - REST APIs
 - PostgreSQL
 - Authentication
+- Motoko
 - Full-stack app architecture
 
 ### Tools
@@ -67,14 +69,14 @@ Repository names available upon request for recruiters/employers, and selected r
 - Advanced backend development
 - Scalable full-stack architecture
 - Authentication & security
-- TypeScript
+- Advanced Web3 concepts
 - Production deployment workflows
 
 ---
 
 ## 🎯 Career Goal
 
-Building modern full-stack web applications with strong UI/UX, scalable architecture, and real-world business functionality.
+Building fast, modern full-stack web applications with strong UI/UX, scalable architecture, and real-world business functionality.
 
 ---
 
