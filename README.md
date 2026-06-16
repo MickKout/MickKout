@@ -49,7 +49,8 @@ Currently diving into building real-world full-stack projects involving:
 - [HTML/CSS/JS Projects](https://github.com/MickKout/HTML-CSS-JS_projects)
 - [Frontend Projects](https://github.com/MickKout/Frontend_Projects)
 - [Full-Stack Projects](https://github.com/MickKout/Full_Stack_Projects)
-
+- [PostgreSQL Projects](https://github.com/MickKout/PostgreSQL_Projects)
+  
 ---
 
 ## 🔒 Additional Private Projects
@@ -61,7 +62,6 @@ Repository names available upon request for recruiters/employers, and selected r
 ### Current Private Repositories
 - [Wordpress Themes Projects](https://github.com/MickKout/WORDPRESS-THEMES)
 - [Python Projects](https://github.com/MickKout/Python_Projects)
-- [PostgreSQL Learning Projects](https://github.com/MickKout/PostgreSQL_Projects)
 
 ---
 
