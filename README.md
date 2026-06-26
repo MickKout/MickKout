@@ -55,7 +55,7 @@ Currently diving into building real-world full-stack projects involving:
 
 ## 🔒 Additional Private Projects
 
-I also maintain several private repositories containing frontend and full-stack applications.
+I also maintain a couple of private repositories containing Wordpress and full-Python projects.
 
 Repository names available upon request for recruiters/employers, and selected repositories can be made public when needed for review.
 
@@ -69,7 +69,7 @@ Repository names available upon request for recruiters/employers, and selected r
 
 - AWS
 - Docker
-- Authentication & security
+- CI/CD
 - Advanced Web3 concepts
 - Production deployment workflows
 
@@ -86,4 +86,3 @@ Building fast, modern full-stack web applications with strong UI/UX, scalable ar
 - Website: https://mkoutrou-web-portfolio.carrd.co/
 - X: https://x.com/developer_mike1
 - Email: mickout56@yahoo.com
-
