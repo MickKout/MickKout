@@ -2,7 +2,7 @@
 
 # Hi, I'm Michail Koutroumpousis 👋
 
-Full-stack Developer focused on building modern, responsive, and user-focused web applications.
+Full-stack Web Developer focused on building modern, responsive, and user-focused web applications.
 
 
 Currently diving into building real-world full-stack projects involving:
@@ -32,7 +32,6 @@ Currently diving into building real-world full-stack projects involving:
 - PostgreSQL
 - Authentication
 - Motoko
-- Full-stack app architecture
 
 ### Tools
 - Git & GitHub
@@ -55,7 +54,7 @@ Currently diving into building real-world full-stack projects involving:
 
 ## 🔒 Additional Private Projects
 
-I also maintain a couple of private repositories containing Wordpress and full-Python projects.
+I also maintain a couple of private repositories containing Wordpress and Python projects.
 
 Repository names available upon request for recruiters/employers, and selected repositories can be made public when needed for review.
 
